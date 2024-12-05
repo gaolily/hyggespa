@@ -14,7 +14,7 @@ Wordpress
 PHP
 
 ## Features
-* Contact form which sends email to Lara with client message and details
+* Contact form which sends email to At Hygge Spa with client message and details
 * Custom Wordpress theme
 * Advanced custom fields to create editable sections for client to use
 * Fully responsive design
